@@ -24,45 +24,8 @@ PlatformVoice is designed to enhance your social media interactions by enabling 
 - **Customizable**: Flexible configuration options to suit your needs.
 - **Customizable**: Flexible configuration options to suit your needs.
 
-## Installation
 
-To install PlatformVoice, follow these steps:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/platformvoice.git
-   cd platformvoice
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Set up environment variables**:
-   Create a `.env` file in the root directory and add your configuration:
-   ```env
-   TWITTER_API_KEY=your_twitter_api_key
-   LINKEDIN_API_KEY=your_linkedin_api_key
-   ```
-
-## Usage
-
-To use PlatformVoice, follow these steps:
-
-1. **Start the server**:
-   ```bash
-   npm start
-   ```
-
-2. **Integrate with your application**:
-   Follow the integration guide for your specific platform to add voice messaging capabilities.
-
-## Configuration
-
-PlatformVoice can be customized through various configuration options. Edit the `config.js` file to adjust settings like audio quality, supported platforms, and API keys.
-
-## Contributing
 
 We welcome contributions from the community! If you have suggestions for improvements or want to contribute code, please follow these steps:
 
